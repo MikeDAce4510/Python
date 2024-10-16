@@ -1,0 +1,9 @@
+cat
+dog
+porcupine
+yes
+no
+car
+truck
+train
+plane
